@@ -123,11 +123,6 @@ C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\As
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\roslyn\vbc.rsp
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\roslyn\VBCSCompiler.exe
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\System.Web.Optimization.xml
-C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\Newtonsoft.Json.xml
-C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\Antlr3.Runtime.pdb
-C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\obj\Debug\CSCI213_Assignment4.csproj.AssemblyReference.cache
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\obj\Debug\CSCI213_Assignment4.csproj.CoreCompileInputs.cache
 C:\Users\logan\Desktop\Fall2023\CSCI 213\Assignments\Assignment4_JohnsonLogan\Assignment4\CSCI213_Assignment4\obj\Debug\CSCI213_Assignment4.csproj.CopyComplete
