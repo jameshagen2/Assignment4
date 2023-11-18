@@ -23,6 +23,16 @@ namespace WebApplication1
 
             KarateSchoolsDataContext dbcon = new KarateSchoolsDataContext(conn);
 
+            var username = (from members in dbcon.Members
+                            where (members.Member_UserID == userID)
+                            select new
+                            {
+                                members.MemberFirstName,
+                                members.MemberLastName
+                            });
+            GridView2.DataSource = username;
+            GridView2.DataBind();
+
             var result = (from sections in dbcon.Sections
                           from instructors in dbcon.Instructors
                           from members in dbcon.Members
@@ -40,7 +50,8 @@ namespace WebApplication1
                               instructors.InstructorLastName,
                               sections.SectionStartDate //assuming this is the payment date?
                               //need to find out what it means for user payment
-                          }); 
+                          });
+            
             GridView1.DataSource = result;
             GridView1.DataBind();
 

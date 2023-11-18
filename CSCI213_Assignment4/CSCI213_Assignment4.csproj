@@ -186,6 +186,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Instructors\Instructor.aspx" />
     <Content Include="Members\Members.aspx" />
     <Content Include="obj\Debug\CSCI213_Assignment4.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\TempPE\KarateSchools.designer.cs.dll" />
@@ -594,6 +595,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Instructors\Instructor.aspx.cs">
+      <DependentUpon>Instructor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Instructors\Instructor.aspx.designer.cs">
+      <DependentUpon>Instructor.aspx</DependentUpon>
     </Compile>
     <Compile Include="KarateSchools.designer.cs">
       <AutoGen>True</AutoGen>
